@@ -10,3 +10,6 @@
 - :rainbow_flag: Pronouns: He/His and They/Their
 - ⚡ Fun fact: Dota 2 > LoL
 ---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=lzupolini&theme=solarized-light" />
+

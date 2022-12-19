@@ -1,4 +1,4 @@
-### Hi from the post-apocalyptic future 👋 (a.k.a. Bolsonaro's Brazil during the covid :brazil:)
+### Hi from the post-apocalyptic future 👋
 
 - :bug: Ecologist 
 - :recycle: Sustainability Scientist 
